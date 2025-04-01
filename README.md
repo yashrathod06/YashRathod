@@ -56,11 +56,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-rathod&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+## 📈 Contributions in the Last Year
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-rathod&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 📝 Contribution Activity
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yash-rathod&theme=radical" alt="Contribution Activity" />
 </p>
